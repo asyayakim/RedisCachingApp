@@ -24,7 +24,7 @@ A practical demonstration of Redis distributed caching in .NET using `IDistribut
 
 ### Prerequisites
 - [.NET 6.0 SDK](https://dotnet.microsoft.com/download) or later
-- Local [Redis Server](https://redis.io/download) (Docker recommended)
+- Local [Redis Server](https://redis.io/download) 
 - Required NuGet Packages:
   ```bash
   Microsoft.Extensions.Caching.StackExchangeRedis (7.0.0+)
